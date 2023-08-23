@@ -1,2 +1,2 @@
-# ML/DS-problem-solving
-This repository contains projects of different ML-models (classification, regression, nlp) and an ordinary business analysis (RFM).
+# DA/DS-problem-solving
+This repository contains solutions to various problems (Data Science/Data Analyst).
